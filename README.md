@@ -14,7 +14,7 @@ A project modified from [something cool with CoreNFC](https://github.com/kjj6198
 - iOS 14.0 or later
 - CoreNFC
 
-**Attention**: You need an Apple Developer Account to sign apps with CoreNFC entitlements. TrollStore *may* work, but I haven't tested it.
+**Attention**: You need an Apple Developer Account to sign apps with CoreNFC entitlements. TrollStore *may* work, but ~~I haven't tested it.~~ it doesn't work for now.
 
 ## Copyright Notice
 
