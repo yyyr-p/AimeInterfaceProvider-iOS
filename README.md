@@ -4,9 +4,9 @@ A project modified from [something cool with CoreNFC](https://github.com/kjj6198
 
 ## Tips
 
-- Run aimeio-socket-client on your computer.
+- Run [aimeio-socket-client](https://github.com/yyyr-p/aimeio-socket-client) on your computer.
 - Connect them with a USB cable. It runs on usbmuxd.
-- Mount aimeio-socket.dll into some mysterious injecting tool?
+- Mount [aimeio-socket](https://github.com/yyyr-p/aimeio-socket).dll into some mysterious injecting tool?
 - FeliCa™ Cards only at the moment.
 
 ## Requirements
